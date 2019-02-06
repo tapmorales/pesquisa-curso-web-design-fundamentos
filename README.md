@@ -9,6 +9,8 @@ Nesse código eu utilizei um pacote desenvolvido por mim que está no npm: https
 
 ## Lista dos ganhadores:
 
+***Atenção: Todos os códigos dos cupons já foram enviados. Se você ainda não recebeu, entre em contato comigo passando seu nome de usuário corretamente, pois não pude encontrar algumas pessoas na lista abaixo. Para que o sorteado possa receber o cupom, preciso do nome de usuário correto.***
+
 0 - diogo-de-almeida-bonfim-braz (https://www.udemy.com/user/diogo-de-almeida-bonfim-braz/)
 
 1 - Gabriel Santana de Oliveira
